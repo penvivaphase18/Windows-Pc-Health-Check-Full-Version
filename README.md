@@ -232,3 +232,6 @@ This repository serves as the official landing page for Windows PC Health Check.
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Windows PC Health Check today!**
+
+---
+**Last updated:** 2026-09-10 22:23:55 UTC
